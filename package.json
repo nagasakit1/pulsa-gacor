@@ -1,0 +1,27 @@
+{
+  "name": "slot-pulsa-gacor-hari-ini",
+  "theme": "ui",
+  "version": "1.0.8",
+  "description": "Slot deposit pulsa ialah perpaduan antara game online terbaik dengan cara transaksi paling hemat untuk mendapatkan keuntungan maksimal. Situs slot deposit pulsa yang kami tawarkan adalah situs judi slot online terpercaya dan terbaik di Indonesia. Terdapat banyak sekali permainan mesin slot gacor dari berbagai provider bertaraf Internasional sehingga bisa memastikan kenyamanan dan kepuasan bermain.",
+  "keywords": [
+    "pulsa777",
+    "slot deposit pulsa",
+    "slot pulsa 10rb",
+    "situs dana via pulsa 5000",
+    "situs slot tanpa potongan",
+    "slot gacor hari ini",
+    "slot online deposit pulsa",
+    "slot Online deposit pulsa Tanpa potongan",
+    "agen slot deposit pulsa",
+    "slot deposit via pulsa",
+    "link slot Online",
+    "link slot Gacor Terpercaya",
+    "slot Gacor Hari Ini",
+    "slot Online Via Dana"
+  ],
+  "repository": "https://github.com/nagasakit1/pulsa-gacor.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.3.7 <2.0.0"
+  }
+}
